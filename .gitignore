@@ -1,0 +1,37 @@
+common/lib/
+downloaded-libs
+libs/
+target/
+eclipsetarget/
+src_managed/
+package/jre
+project/boot/
+project/plugins/project
+.cache*
+.classpath
+.history
+.project
+.settings
+Thumbs.db
+*.log
+.gradle
+android/build
+core/build
+desktop/build
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet

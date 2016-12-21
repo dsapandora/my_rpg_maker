@@ -1,0 +1,11 @@
+* Battle: enemies attack dead party member
+* Write a unit test for the movement disable.
+* Make battle feel more responsive to player input.
+* Restore charaters' HP and MP after battle (temporary hack).
+* Indicate via battler display when a character is dead.
+* Make animations for BattleDamage.
+
+* Running "run" for the editor project in Sbt doesn't allow for test-playing the game.
+* Make method that auto selects an element, asserting the collection is not empty. Use it in Battle.scala.
+* Window management and input managment are not directly linked. ChoiceWindows add and remove themselves to both stacks. Investigate if we can tie them together.
+* Make user interface for Effects behave correctly when there are multiple StatAdd fields.

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=myrpgmaker
+GenericName[en_US]=
+GenericName=
+Icon=icon.png
+MimeType=
+Name[en_US]=myrpgmaker.desktop
+Name=myrpgmaker game editor
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
